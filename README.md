@@ -123,8 +123,8 @@ Replacement text is **never re-scanned**: after a region is replaced with a toke
 
 ## Output file behaviour
 
-- The output directory **must already exist**; the tool does not create it.
-- If `--output` resolves to the same path as `--input`, the program **exits with an error** — it never silently overwrites the source file.
+- If the parent directory of `--output` does not exist, the tool **creates it automatically**.
+- If `--output` resolves to the same absolute path as `--input`, the tool **prints a warning to stderr** and overwrites the original. The user explicitly chose that path, so the operation is allowed but flagged.
 - If `--output` points to a different existing file, it **will be overwritten** (the user explicitly chose that path).
 
 ---
