@@ -9,8 +9,8 @@
       "replace": "EMAIL_A"
     },
     {
-      "find": ["+48 123 456 789"],
-      "replace": "PHONE_01"
+      "find": ["123-456-789"],
+      "replace": "PHONE_A"
     }
   ],
   "options": {

@@ -1,11 +1,2 @@
-Support ticket #4821
-
-Reported by: Anna Nowak
-Email: anna@firma.test
-Phone: +48 123 456 789
-
-Issue description:
-Anna Nowak reported that the export feature does not work correctly.
-Please contact anna@firma.test to confirm when the issue has been resolved.
-
-Note: A. Nowak has already submitted a follow-up request via phone (+48 123 456 789).
+Anna Nowak sent a message from anna@firma.test.
+Her phone number is 123-456-789.
