@@ -1,39 +1,22 @@
 # Python
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.egg-info/
-dist/
-build/
-.eggs/
-*.egg
-*.whl
+*.pyc
 
 # Virtual environments
 .venv/
-venv/
-env/
-ENV/
-
-# Output / generated files
-out/
-*.anon.*
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
-.DS_Store
-Thumbs.db
 
 # Environment
 .env
-.env.*
 
 # Files
 TASK.md
+
+# Output / generated files
+out/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
