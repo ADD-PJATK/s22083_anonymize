@@ -1,0 +1,4 @@
+id,name,email,phone,notes
+1,Anna Nowak,anna@firma.test,+48 123 456 789,Primary contact
+2,Bob Testowy,bob@firma.test,+48 987 654 321,Secondary contact
+3,A. Nowak,anna@firma.test,+48 123 456 789,Duplicate alias entry

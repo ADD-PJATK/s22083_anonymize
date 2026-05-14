@@ -1,0 +1,10 @@
+{
+  "ticket": "4821",
+  "reporter": {
+    "name": "Anna Nowak",
+    "email": "anna@firma.test",
+    "phone": "+48 123 456 789"
+  },
+  "aliases": ["A. Nowak"],
+  "notes": "anna@firma.test confirmed the issue on 2024-03-15. A. Nowak will follow up by end of week."
+}
